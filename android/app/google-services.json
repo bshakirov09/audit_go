@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "478625712447",
+    "project_id": "goplaciz-a74bd",
+    "storage_bucket": "goplaciz-a74bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478625712447:android:81a25620eef7bcd814ab8a",
+        "android_client_info": {
+          "package_name": "com.goplaciz.app.goplaciz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478625712447-cn9qv15ea39s328e2onupmi3drggfke6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goplaciz.app.goplaciz",
+            "certificate_hash": "cddd9c13f240156908f955258db2fda190da8317"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe27LCKauHuIjAhW5_iEcLPlLjm4Wd_b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478625712447-h0ss95spurjrh11vqroml2lsmrkbakt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478625712447-opcnen5pj76scb6ato9tnlc1mth70bdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goplaciz.app.goplaciz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

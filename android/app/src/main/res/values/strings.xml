@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Goplaciz</string>
+    <string name="facebook_app_id">990074891610903</string>
+    <string name="fb_login_protocol_scheme">fb990074891610903</string>
+    <string name="facebook_client_token">21b8a7737ae751ed85d03793cb799442</string>
+</resources>
